@@ -1,0 +1,7 @@
+id,title,description,status,created
+DT1,Server Downtime,Server was down,open,2025-03-25T11:00:00Z
+DT2,Bug in checkout,Error 500,resolved,2025-03-21T14:20:00Z
+DT3,UI Glitch,Screen not responsive,O P E N,2025-03-22T08:50:00Z
+DT4,Data Sync Issue,Data not updating,closed,"March 23, 2025 09:30"
+DT5,Feature Request: Export Data,Add export button,open,2025-03-26T07:45:00Z
+DT6,Performance Lag,Slow loading,pending,2025-03-24T17:00:00Z
